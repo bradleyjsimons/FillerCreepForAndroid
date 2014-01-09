@@ -4,5 +4,5 @@
 
 public class temp
 {
-
+  private void int myvariable;
 }
